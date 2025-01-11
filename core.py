@@ -7,7 +7,7 @@ from telegram.constants import ParseMode
 
 import requests
 
-TOKEN:Final = '7690125469:AAHpk7Fp9F0S7govafwfgMdzwcWjGRgsHyU'
+TOKEN:Final = '7761058642:AAHzg5MoAQiGzVHyYa55rffHP1Cmv52G4u4'
 BOT_USERNAME: Final = '@pol2lubot'
 
 async def start_command(update: Update, context:ContextTypes.DEFAULT_TYPE):
